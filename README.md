@@ -17,10 +17,11 @@ The data used for this analysis is obtained from 2 different sources:
 
 ## Python Libraries Used
 
+- BeautifulSoup
 - CSV
 - JSON
-- Numpy
 - Matplotlib
+- Numpy
 - Pandas
 - Requests
 - Seaborn
