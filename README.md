@@ -23,6 +23,7 @@ The data used for this analysis is obtained from 2 different sources:
 - Matplotlib
 - Numpy
 - Pandas
+- Re
 - Requests
 - Seaborn
 - Time
@@ -32,17 +33,16 @@ The data used for this analysis is obtained from 2 different sources:
 The following questions are answered in the project:
 
 1. What are the 10 most populated countries?
-2. What are the top 2 most populated countries by continent?
+2. What are the top 3 most populated countries by continent?
 3. What is the most populated continent?
 4. What are the top 20 largest countries?
-5. What are the top 2 largest countries by continent?
-6. What is the largest continent?
-7. What is the proportion of countries driving on the left vs. right side?
-8. What are the countries driving on the left side?
-9. What are the top 5 most common languages?
-10. What are the 10 countries with the most inequalities?
-11. What is the average GINI Index by continent?
-12. Is there a correlation between the GDP per capita and the GINI Index?
+5. What is the smallest continent?
+6. What is the proportion of countries driving on the left vs. right side?
+7. What are the top 5 most common languages?
+8. - What are the 5 countries with the most inequalities?
+   - What are the 5 countries with the least inequalities? 
+9. What is the average and median life expectancy per continent?
+10. Do the GINI Index and the GDP per capita have an impact life expectancy?
 
 ## Usage
 
