@@ -10,10 +10,11 @@ The objective of the analysis is to gain insights about different details such a
 
 ## Data Source
 
-The data used for this analysis is obtained from 2 different sources:
+The data used for this analysis is obtained from 3 different sources:
 
 - [**REST Countries**](https://restcountries.com/).
 - [**World Bank Group**](https://datacatalog.worldbank.org/search/dataset/0038130)
+- [**Worldometer**](https://www.worldometers.info/demographics/life-expectancy/)
 
 ## Python Libraries Used
 
