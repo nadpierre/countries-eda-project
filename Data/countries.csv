@@ -1,251 +1,251 @@
-name,cca3,continent,area,car_side,population,gini,languages
-South Georgia,SGS,Antarctica,3903.0,right,30,,English
-Grenada,GRD,North America,344.0,left,112519,,English
-Switzerland,CHE,Europe,41284.0,right,8654622,33.1,"French, Swiss German, Italian, Romansh"
-Sierra Leone,SLE,Africa,71740.0,right,7976985,35.7,English
-Hungary,HUN,Europe,93028.0,right,9749763,29.6,Hungarian
-Taiwan,TWN,Asia,36193.0,right,23503349,,Chinese
-Wallis and Futuna,WLF,Oceania,142.0,right,11750,,French
-Barbados,BRB,North America,430.0,left,287371,,English
-Pitcairn Islands,PCN,Oceania,47.0,left,56,,English
-Ivory Coast,CIV,Africa,322463.0,right,26378275,41.5,French
-Tunisia,TUN,Africa,163610.0,right,11818618,32.8,Arabic
-Italy,ITA,Europe,301336.0,right,59554023,35.9,Italian
-Benin,BEN,Africa,112622.0,right,12123198,47.8,French
-Indonesia,IDN,Asia,1904569.0,left,273523621,38.2,Indonesian
-Cape Verde,CPV,Africa,4033.0,right,555988,42.4,Portuguese
-Saint Kitts and Nevis,KNA,North America,261.0,left,53192,,English
-Laos,LAO,Asia,236800.0,right,7275556,38.8,Lao
-Caribbean Netherlands,BES,North America,328.0,right,25987,,"English, Dutch, Papiamento"
-Uganda,UGA,Africa,241550.0,left,45741000,42.8,"English, Swahili"
-Andorra,AND,Europe,468.0,right,77265,,Catalan
-Burundi,BDI,Africa,27834.0,right,11890781,38.6,"French, Kirundi"
-South Africa,ZAF,Africa,1221037.0,left,59308690,63.0,"Afrikaans, English, Southern Ndebele, Northern Sotho, Southern Sotho, Swazi, Tswana, Tsonga, Venda, Xhosa, Zulu"
-France,FRA,Europe,551695.0,right,67391582,32.4,French
-Libya,LBY,Africa,1759540.0,right,6871287,,Arabic
-Mexico,MEX,North America,1964375.0,right,128932753,45.4,Spanish
-Gabon,GAB,Africa,267668.0,right,2225728,38.0,French
-Northern Mariana Islands,MNP,Oceania,464.0,right,57557,,"Carolinian, Chamorro, English"
-North Macedonia,MKD,Europe,25713.0,right,2077132,33.0,Macedonian
-China,CHN,Asia,9706961.0,right,1402112000,38.5,Chinese
-Yemen,YEM,Asia,527968.0,right,29825968,36.7,Arabic
-Saint Barthélemy,BLM,North America,21.0,right,4255,,French
-Guernsey,GGY,Europe,78.0,left,62999,,"English, French, Guernésiais"
-Solomon Islands,SLB,Oceania,28896.0,left,686878,37.1,English
-Svalbard and Jan Mayen,SJM,Europe,61399.0,right,2562,,Norwegian
-Faroe Islands,FRO,Europe,1393.0,right,48865,,"Danish, Faroese"
-Uzbekistan,UZB,Asia,447400.0,right,34232050,35.3,"Russian, Uzbek"
-Egypt,EGY,Africa,1002450.0,right,102334403,31.5,Arabic
-Senegal,SEN,Africa,196722.0,right,16743930,40.3,French
-Sri Lanka,LKA,Asia,65610.0,left,21919000,39.3,"Sinhala, Tamil"
-Palestine,PSE,Asia,6220.0,right,4803269,33.7,Arabic
-Bangladesh,BGD,Asia,147570.0,left,164689383,32.4,Bengali
-Peru,PER,South America,1285216.0,right,32971846,41.5,"Aymara, Quechua, Spanish"
-Singapore,SGP,Asia,710.0,left,5685807,,"English, Chinese, Malay, Tamil"
-Turkey,TUR,Europe,783562.0,right,84339067,41.9,Turkish
-Afghanistan,AFG,Asia,652230.0,right,40218234,,"Dari, Pashto, Turkmen"
-Aruba,ABW,North America,180.0,right,106766,,"Dutch, Papiamento"
-Cook Islands,COK,Oceania,236.0,left,18100,,"English, Cook Islands Māori"
-United Kingdom,GBR,Europe,242900.0,left,67215293,35.1,English
-Zambia,ZMB,Africa,752612.0,left,18383956,57.1,English
-Finland,FIN,Europe,338424.0,right,5530719,27.3,"Finnish, Swedish"
-Niger,NER,Africa,1267000.0,right,24206636,34.3,French
-Christmas Island,CXR,Asia,135.0,left,2072,,English
-Tokelau,TKL,Oceania,12.0,left,1411,,"English, Samoan, Tokelauan"
-Guinea-Bissau,GNB,Africa,36125.0,right,1967998,50.7,"Portuguese, Upper Guinea Creole"
-Azerbaijan,AZE,Europe,86600.0,right,10110116,26.6,Azerbaijani
-Réunion,REU,Africa,2511.0,right,840974,,French
-Djibouti,DJI,Africa,23200.0,right,988002,41.6,"Arabic, French"
-North Korea,PRK,Asia,120538.0,right,25778815,,Korean
-Mauritius,MUS,Africa,2040.0,left,1265740,36.8,"English, French, Mauritian Creole"
-Montserrat,MSR,North America,102.0,left,4922,,English
-United States Virgin Islands,VIR,North America,347.0,right,106290,,English
-Colombia,COL,South America,1141748.0,right,50882884,51.3,Spanish
-Greece,GRC,Europe,131990.0,right,10715549,32.9,Greek
-Croatia,HRV,Europe,56594.0,right,4047200,29.7,Croatian
-Morocco,MAR,Africa,446550.0,right,36910558,39.5,"Arabic, Berber"
-Algeria,DZA,Africa,2381741.0,right,44700000,27.6,Arabic
-Antarctica,ATA,Antarctica,14000000.0,right,1000,,
-Netherlands,NLD,Europe,41850.0,right,16655799,28.1,Dutch
-Sudan,SDN,Africa,1886068.0,right,43849269,34.2,"Arabic, English"
-Fiji,FJI,Oceania,18272.0,left,896444,36.7,"English, Fijian, Fiji Hindi"
-Liechtenstein,LIE,Europe,160.0,right,38137,,German
-Nepal,NPL,Asia,147181.0,left,29136808,32.8,Nepali
-Puerto Rico,PRI,North America,8870.0,right,3194034,,"English, Spanish"
-Georgia,GEO,Asia,69700.0,right,3714000,35.9,Georgian
-Pakistan,PAK,Asia,881912.0,left,220892331,31.6,"English, Urdu"
-Monaco,MCO,Europe,2.02,right,39244,,French
-Botswana,BWA,Africa,582000.0,left,2351625,53.3,"English, Tswana"
-Lebanon,LBN,Asia,10452.0,right,6825442,31.8,"Arabic, French"
-Papua New Guinea,PNG,Oceania,462840.0,left,8947027,41.9,"English, Hiri Motu, Tok Pisin"
-Mayotte,MYT,Africa,374.0,right,226915,,French
-Dominican Republic,DOM,North America,48671.0,right,10847904,41.9,Spanish
-Norfolk Island,NFK,Oceania,36.0,left,2302,,"English, Norfuk"
-Bouvet Island,BVT,Antarctica,49.0,right,0,,Norwegian
-Qatar,QAT,Asia,11586.0,right,2881060,,Arabic
-Madagascar,MDG,Africa,587041.0,right,27691019,42.6,"French, Malagasy"
-India,IND,Asia,3287590.0,left,1380004385,35.7,"English, Hindi, Tamil"
-Syria,SYR,Asia,185180.0,right,17500657,37.5,Arabic
-Montenegro,MNE,Europe,13812.0,right,621718,38.5,Montenegrin
-Eswatini,SWZ,Africa,17364.0,left,1160164,54.6,"English, Swazi"
-Paraguay,PRY,South America,406752.0,right,7132530,45.7,"Guaraní, Spanish"
-El Salvador,SLV,North America,21041.0,right,6486201,38.8,Spanish
-Ukraine,UKR,Europe,603500.0,right,44134693,26.6,Ukrainian
-Isle of Man,IMN,Europe,572.0,left,85032,,"English, Manx"
-Namibia,NAM,Africa,825615.0,left,2540916,59.1,"Afrikaans, German, English, Herero, Khoekhoe, Kwangali, Lozi, Ndonga, Tswana"
-United Arab Emirates,ARE,Asia,83600.0,right,9890400,26.0,Arabic
-Bulgaria,BGR,Europe,110879.0,right,6927288,41.3,Bulgarian
-Greenland,GRL,North America,2166086.0,right,56367,,Greenlandic
-Germany,DEU,Europe,357114.0,right,83240525,31.9,German
-Cambodia,KHM,Asia,181035.0,right,16718971,,Khmer
-Iraq,IRQ,Asia,438317.0,right,40222503,29.5,"Arabic, Aramaic, Sorani"
-French Southern and Antarctic Lands,ATF,Antarctica,7747.0,right,400,,French
-Sweden,SWE,Europe,450295.0,right,10353442,30.0,Swedish
-Cuba,CUB,North America,109884.0,right,11326616,,Spanish
-Kyrgyzstan,KGZ,Asia,199951.0,right,6591600,29.7,"Kyrgyz, Russian"
-Russia,RUS,Europe,17098242.0,right,144104080,37.5,Russian
-Malaysia,MYS,Asia,330803.0,left,32365998,41.1,"English, Malay"
-São Tomé and Príncipe,STP,Africa,964.0,right,219161,56.3,Portuguese
-Cyprus,CYP,Europe,9251.0,left,1207361,32.7,"Greek, Turkish"
-Canada,CAN,North America,9984670.0,right,38005238,33.3,"English, French"
-Malawi,MWI,Africa,118484.0,left,19129955,44.7,"English, Chewa"
-Saudi Arabia,SAU,Asia,2149690.0,right,34813867,,Arabic
-Bosnia and Herzegovina,BIH,Europe,51209.0,right,3280815,33.0,"Bosnian, Croatian, Serbian"
-Ethiopia,ETH,Africa,1104300.0,right,114963583,35.0,Amharic
-Spain,ESP,Europe,505992.0,right,47351567,34.7,"Spanish, Catalan, Basque, Galician"
-Slovenia,SVN,Europe,20273.0,right,2100126,24.6,Slovene
-Oman,OMN,Asia,309500.0,right,5106622,,Arabic
-Saint Pierre and Miquelon,SPM,North America,242.0,right,6069,,French
-Macau,MAC,Asia,30.0,left,649342,,"Portuguese, Chinese"
-San Marino,SMR,Europe,61.0,right,33938,,Italian
-Lesotho,LSO,Africa,30355.0,left,2142252,44.9,"English, Sotho"
-Marshall Islands,MHL,Oceania,181.0,right,59194,,"English, Marshallese"
-Sint Maarten,SXM,North America,34.0,right,40812,,"English, French, Dutch"
-Iceland,ISL,Europe,103000.0,right,366425,26.1,Icelandic
-Luxembourg,LUX,Europe,2586.0,right,632275,35.4,"German, French, Luxembourgish"
-Argentina,ARG,South America,2780400.0,right,45376763,42.9,"Guaraní, Spanish"
-Turks and Caicos Islands,TCA,North America,948.0,left,38718,,English
-Nauru,NRU,Oceania,21.0,left,10834,34.8,"English, Nauru"
-Cocos (Keeling) Islands,CCK,Asia,14.0,left,544,,English
-Western Sahara,ESH,Africa,266000.0,right,510713,,"Berber, Hassaniya, Spanish"
-Dominica,DMA,North America,751.0,left,71991,,English
-Costa Rica,CRI,North America,51100.0,right,5094114,48.2,Spanish
-Australia,AUS,Oceania,7692024.0,left,25687041,34.4,English
-Thailand,THA,Asia,513120.0,left,69799978,34.9,Thai
-Haiti,HTI,North America,27750.0,right,11402533,41.1,"French, Haitian Creole"
-Tuvalu,TUV,Oceania,26.0,left,11792,39.1,"English, Tuvaluan"
-Honduras,HND,North America,112492.0,right,9904608,48.2,Spanish
-Equatorial Guinea,GNQ,Africa,28051.0,right,1402985,,"French, Portuguese, Spanish"
-Saint Lucia,LCA,North America,616.0,left,183629,51.2,English
-French Polynesia,PYF,Oceania,4167.0,right,280904,,French
-Belarus,BLR,Europe,207600.0,right,9398861,25.3,"Belarusian, Russian"
-Latvia,LVA,Europe,64559.0,right,1901548,35.1,Latvian
-Palau,PLW,Oceania,459.0,right,18092,,"English, Palauan"
-Guadeloupe,GLP,North America,1628.0,right,400132,,French
-Philippines,PHL,Asia,342353.0,right,109581085,42.3,"English, Filipino"
-Gibraltar,GIB,Europe,6.0,right,33691,,English
-Denmark,DNK,Europe,43094.0,right,5831404,28.2,Danish
-Cameroon,CMR,Africa,475442.0,right,26545864,46.6,"English, French"
-Guinea,GIN,Africa,245857.0,right,13132792,33.7,French
-Bahrain,BHR,Asia,765.0,right,1701583,,Arabic
-Suriname,SUR,South America,163820.0,left,586634,57.9,Dutch
-DR Congo,COD,Africa,2344858.0,right,108407721,42.1,"French, Kikongo, Lingala, Tshiluba, Swahili"
-Somalia,SOM,Africa,637657.0,right,15893219,36.8,"Arabic, Somali"
-Czechia,CZE,Europe,78865.0,right,10698896,25.0,"Czech, Slovak"
-New Caledonia,NCL,Oceania,18575.0,right,271960,,French
-Vanuatu,VUT,Oceania,12189.0,right,307150,37.6,"Bislama, English, French"
-"Saint Helena, Ascension and Tristan da Cunha",SHN,Africa,394.0,left,53192,,English
-Togo,TGO,Africa,56785.0,right,8278737,43.1,French
-British Virgin Islands,VGB,North America,151.0,left,30237,,English
-Kenya,KEN,Africa,580367.0,left,53771300,40.8,"English, Swahili"
-Niue,NIU,Oceania,260.0,left,1470,,"English, Niuean"
-Heard Island and McDonald Islands,HMD,Antarctica,412.0,right,0,,English
-Rwanda,RWA,Africa,26338.0,right,12952209,43.7,"English, French, Kinyarwanda"
-Estonia,EST,Europe,45227.0,right,1331057,30.3,Estonian
-Romania,ROU,Europe,238391.0,right,19286123,35.8,Romanian
-Trinidad and Tobago,TTO,North America,5130.0,left,1399491,40.3,English
-Guyana,GUY,South America,214969.0,left,786559,45.1,English
-Timor-Leste,TLS,Oceania,14874.0,left,1318442,28.7,"Portuguese, Tetum"
-Vietnam,VNM,Asia,331212.0,right,97338583,35.7,Vietnamese
-Uruguay,URY,South America,181034.0,right,3473727,39.7,Spanish
-Vatican City,VAT,Europe,0.44,right,451,,"Italian, Latin"
-Hong Kong,HKG,Asia,1104.0,left,7500700,,"English, Chinese"
-Austria,AUT,Europe,83871.0,right,8917205,30.8,German
-Antigua and Barbuda,ATG,North America,442.0,left,97928,,English
-Turkmenistan,TKM,Asia,488100.0,right,6031187,40.8,"Russian, Turkmen"
-Mozambique,MOZ,Africa,801590.0,left,31255435,54.0,Portuguese
-Panama,PAN,North America,75417.0,right,4314768,49.8,Spanish
-Micronesia,FSM,Oceania,702.0,right,115021,40.1,English
-Ireland,IRL,Europe,70273.0,left,4994724,31.4,"English, Irish"
-Curaçao,CUW,North America,444.0,right,155014,,"English, Dutch, Papiamento"
-French Guiana,GUF,South America,83534.0,right,254541,,French
-Norway,NOR,Europe,323802.0,right,5379475,27.6,"Norwegian Nynorsk, Norwegian Bokmål, Sami"
-Åland Islands,ALA,Europe,1580.0,right,29458,,Swedish
-Central African Republic,CAF,Africa,622984.0,right,4829764,56.2,"French, Sango"
-Burkina Faso,BFA,Africa,272967.0,right,20903278,35.3,French
-Eritrea,ERI,Africa,117600.0,right,5352000,,"Arabic, English, Tigrinya"
-Tanzania,TZA,Africa,945087.0,left,59734213,40.5,"English, Swahili"
-South Korea,KOR,Asia,100210.0,right,51780579,31.4,Korean
-Jordan,JOR,Asia,89342.0,right,10203140,33.7,Arabic
-Mauritania,MRT,Africa,1030700.0,right,4649660,32.6,Arabic
-Lithuania,LTU,Europe,65300.0,right,2794700,35.7,Lithuanian
-United States Minor Outlying Islands,UMI,Oceania,34.2,right,300,,English
-Slovakia,SVK,Europe,49037.0,right,5458827,25.0,Slovak
-Angola,AGO,Africa,1246700.0,right,32866268,51.3,Portuguese
-Kazakhstan,KAZ,Asia,2724900.0,right,18754440,27.8,"Kazakh, Russian"
-Moldova,MDA,Europe,33846.0,right,2617820,25.7,Romanian
-Mali,MLI,Africa,1240192.0,right,20250834,33.0,French
-Falkland Islands,FLK,South America,12173.0,left,2563,,English
-Armenia,ARM,Asia,29743.0,right,2963234,29.9,Armenian
-Samoa,WSM,Oceania,2842.0,left,198410,38.7,"English, Samoan"
-Jersey,JEY,Europe,116.0,left,100800,,"English, French, Jèrriais"
-Japan,JPN,Asia,377930.0,left,125836021,32.9,Japanese
-Bolivia,BOL,South America,1098581.0,right,11673029,41.6,"Aymara, Guaraní, Quechua, Spanish"
-Chile,CHL,South America,756102.0,right,19116209,44.4,Spanish
-United States,USA,North America,9372610.0,right,329484123,41.4,English
-Saint Vincent and the Grenadines,VCT,North America,389.0,left,110947,,English
-Bermuda,BMU,North America,54.0,left,63903,,English
-Seychelles,SYC,Africa,452.0,left,98462,32.1,"Seychellois Creole, English, French"
-British Indian Ocean Territory,IOT,Asia,60.0,right,3000,,English
-Guatemala,GTM,North America,108889.0,right,16858333,48.3,Spanish
-Ecuador,ECU,South America,276841.0,right,17643060,45.7,Spanish
-Martinique,MTQ,North America,1128.0,right,378243,,French
-Tajikistan,TJK,Asia,143100.0,right,9537642,34.0,"Russian, Tajik"
-Malta,MLT,Europe,316.0,left,525285,28.7,"English, Maltese"
-Gambia,GMB,Africa,10689.0,right,2416664,35.9,English
-Nigeria,NGA,Africa,923768.0,right,206139587,35.1,English
-Bahamas,BHS,North America,13943.0,left,393248,,English
-Kosovo,UNK,Europe,10908.0,right,1775378,29.0,"Albanian, Serbian"
-Kuwait,KWT,Asia,17818.0,right,4270563,,Arabic
-Maldives,MDV,Asia,300.0,left,540542,31.3,Maldivian
-South Sudan,SSD,Africa,619745.0,right,11193729,44.1,English
-Iran,IRN,Asia,1648195.0,right,83992953,42.0,Persian (Farsi)
-Albania,ALB,Europe,28748.0,right,2837743,33.2,Albanian
-Brazil,BRA,South America,8515767.0,right,212559409,53.4,Portuguese
-Serbia,SRB,Europe,88361.0,right,6908224,36.2,Serbian
-Belize,BLZ,North America,22966.0,right,397621,53.3,"Belizean Creole, English, Spanish"
-Myanmar,MMR,Asia,676578.0,right,54409794,30.7,Burmese
-Bhutan,BTN,Asia,38394.0,left,771612,37.4,Dzongkha
-Venezuela,VEN,South America,916445.0,right,28435943,44.8,Spanish
-Liberia,LBR,Africa,111369.0,right,5057677,35.3,English
-Jamaica,JAM,North America,10991.0,left,2961161,45.5,"English, Jamaican Patois"
-Poland,POL,Europe,312679.0,right,37950802,30.2,Polish
-Cayman Islands,CYM,North America,264.0,left,65720,,English
-Brunei,BRN,Asia,5765.0,left,437483,,Malay
-Comoros,COM,Africa,1862.0,right,869595,45.3,"Arabic, French, Comorian"
-Guam,GUM,Oceania,549.0,right,168783,,"Chamorro, English, Spanish"
-Tonga,TON,Oceania,747.0,left,105697,37.6,"English, Tongan"
-Kiribati,KIR,Oceania,811.0,left,119446,37.0,"English, Gilbertese"
-Ghana,GHA,Africa,238533.0,right,31072945,43.5,English
-Chad,TCD,Africa,1284000.0,right,16425859,43.3,"Arabic, French"
-Zimbabwe,ZWE,Africa,390757.0,left,14862927,50.3,"Chibarwe, English, Kalanga, Khoisan, Ndau, Northern Ndebele, Chewa, Shona, Sotho, Tonga, Tswana, Tsonga, Venda, Xhosa, Zimbabwean Sign Language"
-Saint Martin,MAF,North America,53.0,right,38659,,French
-Mongolia,MNG,Asia,1564110.0,right,3278292,32.7,Mongolian
-Portugal,PRT,Europe,92090.0,right,10305564,33.5,Portuguese
-American Samoa,ASM,Oceania,199.0,right,55197,,"English, Samoan"
-Republic of the Congo,COG,Africa,342000.0,right,5657000,48.9,"French, Kikongo, Lingala"
-Belgium,BEL,Europe,30528.0,right,11555997,27.2,"German, French, Dutch"
-Israel,ISR,Asia,20770.0,right,9216900,39.0,"Arabic, Hebrew"
-New Zealand,NZL,Oceania,270467.0,left,5084300,,"English, Māori, New Zealand Sign Language"
-Nicaragua,NIC,North America,130373.0,right,6624554,46.2,Spanish
-Anguilla,AIA,North America,91.0,left,13452,,English
+name,cca3,continent,population,area,languages,gini
+South Georgia,SGS,Antarctica,30,3903.0,English,
+Grenada,GRD,North America,112519,344.0,English,
+Switzerland,CHE,Europe,8654622,41284.0,"French, Swiss German, Italian, Romansh",33.1
+Sierra Leone,SLE,Africa,7976985,71740.0,English,35.7
+Hungary,HUN,Europe,9749763,93028.0,Hungarian,29.6
+Taiwan,TWN,Asia,23503349,36193.0,Chinese,
+Wallis and Futuna,WLF,Oceania,11750,142.0,French,
+Barbados,BRB,North America,287371,430.0,English,
+Pitcairn Islands,PCN,Oceania,56,47.0,English,
+Ivory Coast,CIV,Africa,26378275,322463.0,French,41.5
+Tunisia,TUN,Africa,11818618,163610.0,Arabic,32.8
+Italy,ITA,Europe,59554023,301336.0,Italian,35.9
+Benin,BEN,Africa,12123198,112622.0,French,47.8
+Indonesia,IDN,Asia,273523621,1904569.0,Indonesian,38.2
+Cape Verde,CPV,Africa,555988,4033.0,Portuguese,42.4
+Saint Kitts and Nevis,KNA,North America,53192,261.0,English,
+Laos,LAO,Asia,7275556,236800.0,Lao,38.8
+Caribbean Netherlands,BES,North America,25987,328.0,"English, Dutch, Papiamento",
+Uganda,UGA,Africa,45741000,241550.0,"English, Swahili",42.8
+Andorra,AND,Europe,77265,468.0,Catalan,
+Burundi,BDI,Africa,11890781,27834.0,"French, Kirundi",38.6
+South Africa,ZAF,Africa,59308690,1221037.0,"Afrikaans, English, Southern Ndebele, Northern Sotho, Southern Sotho, Swazi, Tswana, Tsonga, Venda, Xhosa, Zulu",63.0
+France,FRA,Europe,67391582,551695.0,French,32.4
+Libya,LBY,Africa,6871287,1759540.0,Arabic,
+Mexico,MEX,North America,128932753,1964375.0,Spanish,45.4
+Gabon,GAB,Africa,2225728,267668.0,French,38.0
+Northern Mariana Islands,MNP,Oceania,57557,464.0,"Carolinian, Chamorro, English",
+North Macedonia,MKD,Europe,2077132,25713.0,Macedonian,33.0
+China,CHN,Asia,1402112000,9706961.0,Chinese,38.5
+Yemen,YEM,Asia,29825968,527968.0,Arabic,36.7
+Saint Barthélemy,BLM,North America,4255,21.0,French,
+Guernsey,GGY,Europe,62999,78.0,"English, French, Guernésiais",
+Solomon Islands,SLB,Oceania,686878,28896.0,English,37.1
+Svalbard and Jan Mayen,SJM,Europe,2562,61399.0,Norwegian,
+Faroe Islands,FRO,Europe,48865,1393.0,"Danish, Faroese",
+Uzbekistan,UZB,Asia,34232050,447400.0,"Russian, Uzbek",35.3
+Egypt,EGY,Africa,102334403,1002450.0,Arabic,31.5
+Senegal,SEN,Africa,16743930,196722.0,French,40.3
+Sri Lanka,LKA,Asia,21919000,65610.0,"Sinhala, Tamil",39.3
+Palestine,PSE,Asia,4803269,6220.0,Arabic,33.7
+Bangladesh,BGD,Asia,164689383,147570.0,Bengali,32.4
+Peru,PER,South America,32971846,1285216.0,"Aymara, Quechua, Spanish",41.5
+Singapore,SGP,Asia,5685807,710.0,"English, Chinese, Malay, Tamil",
+Turkey,TUR,Europe,84339067,783562.0,Turkish,41.9
+Afghanistan,AFG,Asia,40218234,652230.0,"Dari, Pashto, Turkmen",
+Aruba,ABW,North America,106766,180.0,"Dutch, Papiamento",
+Cook Islands,COK,Oceania,18100,236.0,"English, Cook Islands Māori",
+United Kingdom,GBR,Europe,67215293,242900.0,English,35.1
+Zambia,ZMB,Africa,18383956,752612.0,English,57.1
+Finland,FIN,Europe,5530719,338424.0,"Finnish, Swedish",27.3
+Niger,NER,Africa,24206636,1267000.0,French,34.3
+Christmas Island,CXR,Asia,2072,135.0,English,
+Tokelau,TKL,Oceania,1411,12.0,"English, Samoan, Tokelauan",
+Guinea-Bissau,GNB,Africa,1967998,36125.0,"Portuguese, Upper Guinea Creole",50.7
+Azerbaijan,AZE,Europe,10110116,86600.0,Azerbaijani,26.6
+Réunion,REU,Africa,840974,2511.0,French,
+Djibouti,DJI,Africa,988002,23200.0,"Arabic, French",41.6
+North Korea,PRK,Asia,25778815,120538.0,Korean,
+Mauritius,MUS,Africa,1265740,2040.0,"English, French, Mauritian Creole",36.8
+Montserrat,MSR,North America,4922,102.0,English,
+United States Virgin Islands,VIR,North America,106290,347.0,English,
+Colombia,COL,South America,50882884,1141748.0,Spanish,51.3
+Greece,GRC,Europe,10715549,131990.0,Greek,32.9
+Croatia,HRV,Europe,4047200,56594.0,Croatian,29.7
+Morocco,MAR,Africa,36910558,446550.0,"Arabic, Berber",39.5
+Algeria,DZA,Africa,44700000,2381741.0,Arabic,27.6
+Antarctica,ATA,Antarctica,1000,14000000.0,,
+Netherlands,NLD,Europe,16655799,41850.0,Dutch,28.1
+Sudan,SDN,Africa,43849269,1886068.0,"Arabic, English",34.2
+Fiji,FJI,Oceania,896444,18272.0,"English, Fijian, Fiji Hindi",36.7
+Liechtenstein,LIE,Europe,38137,160.0,German,
+Nepal,NPL,Asia,29136808,147181.0,Nepali,32.8
+Puerto Rico,PRI,North America,3194034,8870.0,"English, Spanish",
+Georgia,GEO,Asia,3714000,69700.0,Georgian,35.9
+Pakistan,PAK,Asia,220892331,881912.0,"English, Urdu",31.6
+Monaco,MCO,Europe,39244,2.02,French,
+Botswana,BWA,Africa,2351625,582000.0,"English, Tswana",53.3
+Lebanon,LBN,Asia,6825442,10452.0,"Arabic, French",31.8
+Papua New Guinea,PNG,Oceania,8947027,462840.0,"English, Hiri Motu, Tok Pisin",41.9
+Mayotte,MYT,Africa,226915,374.0,French,
+Dominican Republic,DOM,North America,10847904,48671.0,Spanish,41.9
+Norfolk Island,NFK,Oceania,2302,36.0,"English, Norfuk",
+Bouvet Island,BVT,Antarctica,0,49.0,Norwegian,
+Qatar,QAT,Asia,2881060,11586.0,Arabic,
+Madagascar,MDG,Africa,27691019,587041.0,"French, Malagasy",42.6
+India,IND,Asia,1380004385,3287590.0,"English, Hindi, Tamil",35.7
+Syria,SYR,Asia,17500657,185180.0,Arabic,37.5
+Montenegro,MNE,Europe,621718,13812.0,Montenegrin,38.5
+Eswatini,SWZ,Africa,1160164,17364.0,"English, Swazi",54.6
+Paraguay,PRY,South America,7132530,406752.0,"Guaraní, Spanish",45.7
+El Salvador,SLV,North America,6486201,21041.0,Spanish,38.8
+Ukraine,UKR,Europe,44134693,603500.0,Ukrainian,26.6
+Isle of Man,IMN,Europe,85032,572.0,"English, Manx",
+Namibia,NAM,Africa,2540916,825615.0,"Afrikaans, German, English, Herero, Khoekhoe, Kwangali, Lozi, Ndonga, Tswana",59.1
+United Arab Emirates,ARE,Asia,9890400,83600.0,Arabic,26.0
+Bulgaria,BGR,Europe,6927288,110879.0,Bulgarian,41.3
+Greenland,GRL,North America,56367,2166086.0,Greenlandic,
+Germany,DEU,Europe,83240525,357114.0,German,31.9
+Cambodia,KHM,Asia,16718971,181035.0,Khmer,
+Iraq,IRQ,Asia,40222503,438317.0,"Arabic, Aramaic, Sorani",29.5
+French Southern and Antarctic Lands,ATF,Antarctica,400,7747.0,French,
+Sweden,SWE,Europe,10353442,450295.0,Swedish,30.0
+Cuba,CUB,North America,11326616,109884.0,Spanish,
+Kyrgyzstan,KGZ,Asia,6591600,199951.0,"Kyrgyz, Russian",29.7
+Russia,RUS,Europe,144104080,17098242.0,Russian,37.5
+Malaysia,MYS,Asia,32365998,330803.0,"English, Malay",41.1
+São Tomé and Príncipe,STP,Africa,219161,964.0,Portuguese,56.3
+Cyprus,CYP,Europe,1207361,9251.0,"Greek, Turkish",32.7
+Canada,CAN,North America,38005238,9984670.0,"English, French",33.3
+Malawi,MWI,Africa,19129955,118484.0,"English, Chewa",44.7
+Saudi Arabia,SAU,Asia,34813867,2149690.0,Arabic,
+Bosnia and Herzegovina,BIH,Europe,3280815,51209.0,"Bosnian, Croatian, Serbian",33.0
+Ethiopia,ETH,Africa,114963583,1104300.0,Amharic,35.0
+Spain,ESP,Europe,47351567,505992.0,"Spanish, Catalan, Basque, Galician",34.7
+Slovenia,SVN,Europe,2100126,20273.0,Slovene,24.6
+Oman,OMN,Asia,5106622,309500.0,Arabic,
+Saint Pierre and Miquelon,SPM,North America,6069,242.0,French,
+Macau,MAC,Asia,649342,30.0,"Portuguese, Chinese",
+San Marino,SMR,Europe,33938,61.0,Italian,
+Lesotho,LSO,Africa,2142252,30355.0,"English, Sotho",44.9
+Marshall Islands,MHL,Oceania,59194,181.0,"English, Marshallese",
+Sint Maarten,SXM,North America,40812,34.0,"English, French, Dutch",
+Iceland,ISL,Europe,366425,103000.0,Icelandic,26.1
+Luxembourg,LUX,Europe,632275,2586.0,"German, French, Luxembourgish",35.4
+Argentina,ARG,South America,45376763,2780400.0,"Guaraní, Spanish",42.9
+Turks and Caicos Islands,TCA,North America,38718,948.0,English,
+Nauru,NRU,Oceania,10834,21.0,"English, Nauru",34.8
+Cocos (Keeling) Islands,CCK,Asia,544,14.0,English,
+Western Sahara,ESH,Africa,510713,266000.0,"Berber, Hassaniya, Spanish",
+Dominica,DMA,North America,71991,751.0,English,
+Costa Rica,CRI,North America,5094114,51100.0,Spanish,48.2
+Australia,AUS,Oceania,25687041,7692024.0,English,34.4
+Thailand,THA,Asia,69799978,513120.0,Thai,34.9
+Haiti,HTI,North America,11402533,27750.0,"French, Haitian Creole",41.1
+Tuvalu,TUV,Oceania,11792,26.0,"English, Tuvaluan",39.1
+Honduras,HND,North America,9904608,112492.0,Spanish,48.2
+Equatorial Guinea,GNQ,Africa,1402985,28051.0,"French, Portuguese, Spanish",
+Saint Lucia,LCA,North America,183629,616.0,English,51.2
+French Polynesia,PYF,Oceania,280904,4167.0,French,
+Belarus,BLR,Europe,9398861,207600.0,"Belarusian, Russian",25.3
+Latvia,LVA,Europe,1901548,64559.0,Latvian,35.1
+Palau,PLW,Oceania,18092,459.0,"English, Palauan",
+Guadeloupe,GLP,North America,400132,1628.0,French,
+Philippines,PHL,Asia,109581085,342353.0,"English, Filipino",42.3
+Gibraltar,GIB,Europe,33691,6.0,English,
+Denmark,DNK,Europe,5831404,43094.0,Danish,28.2
+Cameroon,CMR,Africa,26545864,475442.0,"English, French",46.6
+Guinea,GIN,Africa,13132792,245857.0,French,33.7
+Bahrain,BHR,Asia,1701583,765.0,Arabic,
+Suriname,SUR,South America,586634,163820.0,Dutch,57.9
+DR Congo,COD,Africa,108407721,2344858.0,"French, Kikongo, Lingala, Tshiluba, Swahili",42.1
+Somalia,SOM,Africa,15893219,637657.0,"Arabic, Somali",36.8
+Czechia,CZE,Europe,10698896,78865.0,"Czech, Slovak",25.0
+New Caledonia,NCL,Oceania,271960,18575.0,French,
+Vanuatu,VUT,Oceania,307150,12189.0,"Bislama, English, French",37.6
+"Saint Helena, Ascension and Tristan da Cunha",SHN,Africa,53192,394.0,English,
+Togo,TGO,Africa,8278737,56785.0,French,43.1
+British Virgin Islands,VGB,North America,30237,151.0,English,
+Kenya,KEN,Africa,53771300,580367.0,"English, Swahili",40.8
+Niue,NIU,Oceania,1470,260.0,"English, Niuean",
+Heard Island and McDonald Islands,HMD,Antarctica,0,412.0,English,
+Rwanda,RWA,Africa,12952209,26338.0,"English, French, Kinyarwanda",43.7
+Estonia,EST,Europe,1331057,45227.0,Estonian,30.3
+Romania,ROU,Europe,19286123,238391.0,Romanian,35.8
+Trinidad and Tobago,TTO,North America,1399491,5130.0,English,40.3
+Guyana,GUY,South America,786559,214969.0,English,45.1
+Timor-Leste,TLS,Oceania,1318442,14874.0,"Portuguese, Tetum",28.7
+Vietnam,VNM,Asia,97338583,331212.0,Vietnamese,35.7
+Uruguay,URY,South America,3473727,181034.0,Spanish,39.7
+Vatican City,VAT,Europe,451,0.44,"Italian, Latin",
+Hong Kong,HKG,Asia,7500700,1104.0,"English, Chinese",
+Austria,AUT,Europe,8917205,83871.0,German,30.8
+Antigua and Barbuda,ATG,North America,97928,442.0,English,
+Turkmenistan,TKM,Asia,6031187,488100.0,"Russian, Turkmen",40.8
+Mozambique,MOZ,Africa,31255435,801590.0,Portuguese,54.0
+Panama,PAN,North America,4314768,75417.0,Spanish,49.8
+Micronesia,FSM,Oceania,115021,702.0,English,40.1
+Ireland,IRL,Europe,4994724,70273.0,"English, Irish",31.4
+Curaçao,CUW,North America,155014,444.0,"English, Dutch, Papiamento",
+French Guiana,GUF,South America,254541,83534.0,French,
+Norway,NOR,Europe,5379475,323802.0,"Norwegian Nynorsk, Norwegian Bokmål, Sami",27.6
+Åland Islands,ALA,Europe,29458,1580.0,Swedish,
+Central African Republic,CAF,Africa,4829764,622984.0,"French, Sango",56.2
+Burkina Faso,BFA,Africa,20903278,272967.0,French,35.3
+Eritrea,ERI,Africa,5352000,117600.0,"Arabic, English, Tigrinya",
+Tanzania,TZA,Africa,59734213,945087.0,"English, Swahili",40.5
+South Korea,KOR,Asia,51780579,100210.0,Korean,31.4
+Jordan,JOR,Asia,10203140,89342.0,Arabic,33.7
+Mauritania,MRT,Africa,4649660,1030700.0,Arabic,32.6
+Lithuania,LTU,Europe,2794700,65300.0,Lithuanian,35.7
+United States Minor Outlying Islands,UMI,Oceania,300,34.2,English,
+Slovakia,SVK,Europe,5458827,49037.0,Slovak,25.0
+Angola,AGO,Africa,32866268,1246700.0,Portuguese,51.3
+Kazakhstan,KAZ,Asia,18754440,2724900.0,"Kazakh, Russian",27.8
+Moldova,MDA,Europe,2617820,33846.0,Romanian,25.7
+Mali,MLI,Africa,20250834,1240192.0,French,33.0
+Falkland Islands,FLK,South America,2563,12173.0,English,
+Armenia,ARM,Asia,2963234,29743.0,Armenian,29.9
+Samoa,WSM,Oceania,198410,2842.0,"English, Samoan",38.7
+Jersey,JEY,Europe,100800,116.0,"English, French, Jèrriais",
+Japan,JPN,Asia,125836021,377930.0,Japanese,32.9
+Bolivia,BOL,South America,11673029,1098581.0,"Aymara, Guaraní, Quechua, Spanish",41.6
+Chile,CHL,South America,19116209,756102.0,Spanish,44.4
+United States,USA,North America,329484123,9372610.0,English,41.4
+Saint Vincent and the Grenadines,VCT,North America,110947,389.0,English,
+Bermuda,BMU,North America,63903,54.0,English,
+Seychelles,SYC,Africa,98462,452.0,"Seychellois Creole, English, French",32.1
+British Indian Ocean Territory,IOT,Asia,3000,60.0,English,
+Guatemala,GTM,North America,16858333,108889.0,Spanish,48.3
+Ecuador,ECU,South America,17643060,276841.0,Spanish,45.7
+Martinique,MTQ,North America,378243,1128.0,French,
+Tajikistan,TJK,Asia,9537642,143100.0,"Russian, Tajik",34.0
+Malta,MLT,Europe,525285,316.0,"English, Maltese",28.7
+Gambia,GMB,Africa,2416664,10689.0,English,35.9
+Nigeria,NGA,Africa,206139587,923768.0,English,35.1
+Bahamas,BHS,North America,393248,13943.0,English,
+Kosovo,UNK,Europe,1775378,10908.0,"Albanian, Serbian",29.0
+Kuwait,KWT,Asia,4270563,17818.0,Arabic,
+Maldives,MDV,Asia,540542,300.0,Maldivian,31.3
+South Sudan,SSD,Africa,11193729,619745.0,English,44.1
+Iran,IRN,Asia,83992953,1648195.0,Persian (Farsi),42.0
+Albania,ALB,Europe,2837743,28748.0,Albanian,33.2
+Brazil,BRA,South America,212559409,8515767.0,Portuguese,53.4
+Serbia,SRB,Europe,6908224,88361.0,Serbian,36.2
+Belize,BLZ,North America,397621,22966.0,"Belizean Creole, English, Spanish",53.3
+Myanmar,MMR,Asia,54409794,676578.0,Burmese,30.7
+Bhutan,BTN,Asia,771612,38394.0,Dzongkha,37.4
+Venezuela,VEN,South America,28435943,916445.0,Spanish,44.8
+Liberia,LBR,Africa,5057677,111369.0,English,35.3
+Jamaica,JAM,North America,2961161,10991.0,"English, Jamaican Patois",45.5
+Poland,POL,Europe,37950802,312679.0,Polish,30.2
+Cayman Islands,CYM,North America,65720,264.0,English,
+Brunei,BRN,Asia,437483,5765.0,Malay,
+Comoros,COM,Africa,869595,1862.0,"Arabic, French, Comorian",45.3
+Guam,GUM,Oceania,168783,549.0,"Chamorro, English, Spanish",
+Tonga,TON,Oceania,105697,747.0,"English, Tongan",37.6
+Kiribati,KIR,Oceania,119446,811.0,"English, Gilbertese",37.0
+Ghana,GHA,Africa,31072945,238533.0,English,43.5
+Chad,TCD,Africa,16425859,1284000.0,"Arabic, French",43.3
+Zimbabwe,ZWE,Africa,14862927,390757.0,"Chibarwe, English, Kalanga, Khoisan, Ndau, Northern Ndebele, Chewa, Shona, Sotho, Tonga, Tswana, Tsonga, Venda, Xhosa, Zimbabwean Sign Language",50.3
+Saint Martin,MAF,North America,38659,53.0,French,
+Mongolia,MNG,Asia,3278292,1564110.0,Mongolian,32.7
+Portugal,PRT,Europe,10305564,92090.0,Portuguese,33.5
+American Samoa,ASM,Oceania,55197,199.0,"English, Samoan",
+Republic of the Congo,COG,Africa,5657000,342000.0,"French, Kikongo, Lingala",48.9
+Belgium,BEL,Europe,11555997,30528.0,"German, French, Dutch",27.2
+Israel,ISR,Asia,9216900,20770.0,"Arabic, Hebrew",39.0
+New Zealand,NZL,Oceania,5084300,270467.0,"English, Māori, New Zealand Sign Language",
+Nicaragua,NIC,North America,6624554,130373.0,Spanish,46.2
+Anguilla,AIA,North America,13452,91.0,English,

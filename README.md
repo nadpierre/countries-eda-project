@@ -6,7 +6,7 @@ This repository contains a Jupyter Notebook to provide insights about the data o
 
 ## Overview
 The dataset used in this project contains information about all the countries in the world.
-The objective of the analysis is to gain insights about different details such as population, area and distribution of wealth.
+The objective of the analysis is to gain insights about population, area, languages spoken, distribution of wealth, life expectancy and death rate.
 
 ## Data Source
 
